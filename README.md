@@ -1,0 +1,2 @@
+# Chinese_Patent_Rename
+对中国专利PDF文件的文件名进行格式化，使文件名按照一定的格式显示
